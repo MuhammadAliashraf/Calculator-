@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(165, 0, 96);
+    text-align: center;
+}
+#Done{
+    margin-top: 2rem;
+    width: 385px;
+}
+button{
+    
+    margin-top: 2rem;
+    width: 385px;
+}
+p{
+    font-size: 400%;
+    color: white;
+    font-weight: bold;
+}
